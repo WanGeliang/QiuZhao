@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GiveMeOffer/GiveMeOffer.iml" filepath="$PROJECT_DIR$/GiveMeOffer/GiveMeOffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_DataStructure/Java_DataStructure.iml" filepath="$PROJECT_DIR$/Java_DataStructure/Java_DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My_leetcode.iml" filepath="$PROJECT_DIR$/My_leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QiuZhao/秋招笔试.iml" filepath="$PROJECT_DIR$/QiuZhao/秋招笔试.iml" />
+    </modules>
+  </component>
+</project>
